@@ -3,9 +3,10 @@ Version
 
 Branche
 -------
-master
+feature/CV_1d_base
+Parent : 97ba3b0d1e8cee6e3dea6fadbe1b8e25956da0b2
 
 Objectif
 --------
-Mise en place du dépôt et création de la structure.
+Devoir préparation du texte pour la création d'un CV.
 
